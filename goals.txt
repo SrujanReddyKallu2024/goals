@@ -1,0 +1,31 @@
+so first in month of april i wa smajorly involved in doing will luke handovers and then devel;oping the code for the alteryx to onprem which was much complicatedand lot of meetings as his last date wwas 17th april and then i have finished majority of the migration back then and tested it endd to end with fake data till mid of may 
+
+then in may i was pulled into consumersync migration from onprem to aws so there i was added to standup and many learning on airflow emr serveress docker setup and then in month of may i have started to create a standardised template for emr servelwess and made serveral docs for that and then helped mounika in tetsing the setup end to end with mwaa and emr 
+
+and then in may i have started woorking on migration of chvmk2 and then i was assigned with creating the tasks of datatset dummy and then in month of june i was working on hems migration  with email functionality tasks and then the task for me wast to convert all codes in the whole id grpah repo which asll include the id graph script and email thing I have setup in airflow dag and created a documentation and email i have added them everything and then audience engine stage has come to stage server but then the code was fully unoptimized had to take the code and fully optimize it for 52 million records
+and then finally stage run end to edn and lot of calls
+
+in july rest all scripts of the migration with email has been doen and then audience_engine has been moved to production and for the first time the whole altryx from 8hr s came to 2hrs 30 min and then delivered to donovan which was huge success and then now in jluy documented it and alos 
+
+end of july mnonth and aug current  we are now migrating the whiole digital taxaonomy which is huge and consists 9 scripts and dag itslef went upto 1500+ lines and then esting was huge takes atleast 3hrs to run so finally managed to run with challenges of memeory and wiaiting time in daga nd then worked on migrating ttd geo
+
+digital taxonomy optimiuzed most importan tproce3ss into 5hrs to 8 mins
+
+helping mounika a lot on neartime api and enrichement api
+
+helping interns a lot with new things
+
+neelesh and sourav full kt very frustating too mcuh baic issues lot of time
+
+
+ddid data earue end to end
+raise sft requewetss
+
+migrated difgital taxonomy to uat
+
+amnd data erausre much better ptiomized 
+
+mouniak akka didn’t give credits in standup next day for helping her 2 hrs to solve cdocker issue with pipelines so much time and efforts
+
+
+
